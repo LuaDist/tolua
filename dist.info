@@ -1,0 +1,14 @@
+--- This file is part of LuaDist project
+
+name = "tolua"
+version = "5.2"
+
+desc = "tolua is a tool that greatly simplifies the integration of C/C++ code with Lua."
+author = "Waldemar Celes"
+license = "as-is"
+url = "http://www.tecgraf.puc-rio.br/~celes/tolua/"
+maintainer = "Peter Drahoš"
+
+depends = {
+	"lua >= 5.2, < 5.3"
+}
