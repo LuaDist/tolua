@@ -1,7 +1,7 @@
 --- This file is part of LuaDist project
 
 name = "tolua"
-version = "5.2"
+version = "5.2.0"
 
 desc = "tolua is a tool that greatly simplifies the integration of C/C++ code with Lua."
 author = "Waldemar Celes"
